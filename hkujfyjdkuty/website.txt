@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<body background="background.jpg"width:1000px;height:1000px;">
+</body>
+
+<title> Beautiful Things in the World </title>
+
+<style>
+h1   {color:white;
+      text-align: center;
+      font-family: verdana;
+      font-size: 300%;}
+p    {color: black;
+      text-align: center;
+      font-family: courier;
+      font-size: 150%;
+      border: 5px solid blue;}
+ul {
+    color:white;
+}
+</style>
+</head>
+
+
+<body>
+
+<h1> Beautiful Things in the World </h1>
+<hr>
+
+<nav>
+  <ul>
+    <li><a href="file:///C:/hkujfyjdkuty/website.html">Home</a></li>
+    <li><a href="file:///C:/hkujfyjdkuty/pictures.html">Pictures</a></li>
+    <li><a href="file:///C:/hkujfyjdkuty/list.html">The List</a></li>
+  </ul>
+</nav>
+<hr>
+
+<center><img src="beauty.jpg" alt= "Beauty" style="width:304px;height:228px;">
+</center>
+
+<p>Among the many amazing and pretty things life has to offer here are some of the best ones based on my liking. <br>
+   Some of these items on the list are human made but the majority is natural.<br>
+   Enjoy. <br>
+<hr>
+
+<a href="https://www.youtube.com/watch?v=21LGv8Cf0us"> What a Wonderful World </a>
+</body>
+</head>
+</html>

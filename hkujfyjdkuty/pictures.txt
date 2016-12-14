@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body background-color:black;>
+<h1> Welcome to Pictures</h1>
+
+<img src="beach.jpg" alt="Beach">
+<img src="beauty.jpg" alt="Beauty">
+<img src="cafes.jpg" alt="Cafes">
+<img src="coffee.jpg" alt="Coffee">
+<img src="colorful nature.jpg" alt="Colorful Nature">
+<img src="flowers.jpg" alt="Flowers">
+<img src="forest.jpg" alt="Forest">
+<img src="fruits.jpg" alt="Fruits">
+<img src="lake.jpg" alt="Lake">
+<img src="library.jpg" alt="Library">
+<img src="night.jpg" alt="Night">
+<img src="northern lights.jpg" alt="Nothern Lights">
+<img src="seasons.jpg" alt="Seasons">
+<img src="sunset.jpg" alt="Sunset">
+<img src="trees.jpg" alt="Trees">
+<img src="vegetables.jpg" alt="Vegetables">
+</body>
+</head>
+</html>
